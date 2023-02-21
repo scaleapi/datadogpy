@@ -3,7 +3,7 @@ requires = ["hatchling>=0.15.0"]
 build-backend = "hatchling.build"
 
 [project]
-name = "datadog"
+name = "datadog-scale"
 description = "The Datadog Python library"
 readme = "README.md"
 license = "BSD-3-Clause"
